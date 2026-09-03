@@ -12,17 +12,26 @@ svg = svg_path.read_text(encoding="utf-8")
 
 overlay = r'''
 <style>
-@keyframes blink-game-over {
-  0%, 45% {
+@keyframes game-over {
+  0% {
+    opacity: 0;
+  }
+
+  10% {
     opacity: 1;
   }
-  50%, 100% {
+
+  70% {
+    opacity: 1;
+  }
+
+  100% {
     opacity: 0;
   }
 }
 
 .game-over-text {
-  animation: blink-game-over 1.5s steps(1, end) infinite;
+  animation: game-over 4s ease-in-out 1 forwards;
 }
 </style>
 
@@ -40,7 +49,11 @@ overlay = r'''
 </text>
 '''
 
-svg = re.sub(r'</svg>\s*$', overlay + '\n</svg>', svg)
+svg = re.sub(
+    r'</svg>\s*$',
+    overlay + '\n</svg>',
+    svg
+)
 
 svg_path.write_text(svg, encoding="utf-8")
 
