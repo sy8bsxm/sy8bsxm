@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://tenor.com/view/rem-ram-re-zero-rezero-gif-7365578" width="900" height="350"/>
+  <img src="./rem.gif" width="900" height="350"/>
 </p>
 
   
