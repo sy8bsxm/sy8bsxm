@@ -34,5 +34,5 @@
 <br>
 
 <p align="center">
-  <sub>just right high🍃</sub>
+  <sub>high🍃</sub>
 </p>
