@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./basim.gif" width="900" height="350"/>
+  <img src="./basim.gif" width="498" height="291"/>
 </p>
 
   
