@@ -10,6 +10,7 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=sy8bsxm&label=Profile%20views&color=00FF9F&style=flat-square" alt="profile views" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust&logoColor=white" />
 </p>
 
 <p align="center">
