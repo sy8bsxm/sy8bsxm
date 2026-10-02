@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./maomao.gif" width="900" height="350"/>
+  <img src="./luffy.gif" width="900" height="350"/>
 </p>
 
   
